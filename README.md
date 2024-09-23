@@ -4,7 +4,7 @@ Welcome to my Data Analyst portfolio! This repository showcases my work, skills,
 
 ## 🔍 About Me
 
-I am a dedicated Data Analyst with a passion for uncovering insights and driving data-informed decisions. My expertise lies in data cleaning, exploratory data analysis, data visualization, and building predictive models. I am proficient in tools like Python, SQL, Excel, and various data visualization platforms such as Tableau and Power BI.
+I am a dedicated Data Analyst with a passion for uncovering insights and driving data-informed decisions. My expertise lies in data cleaning, exploratory data analysis, data visualization, and building predictive models. I am proficient in tools like Python, SQL, Excel, and various data visualization platforms such as Tableau.
 
 ## 📁 Repository Structure
 
