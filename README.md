@@ -1,19 +1,19 @@
-#📊 Data Analyst Portfolio
+# 📊 Data Analyst Portfolio
 
 Welcome to my Data Analyst portfolio! This repository showcases my work, skills, and expertise in data analysis. Each project reflects my approach to solving real-world problems using data-driven techniques.
 
-##🔍 About Me
+## 🔍 About Me
 
 I am a dedicated Data Analyst with a passion for uncovering insights and driving data-informed decisions. My expertise lies in data cleaning, exploratory data analysis, data visualization, and building predictive models. I am proficient in tools like Python, SQL, Excel, and various data visualization platforms such as Tableau and Power BI.
 
-##📁 Repository Structure
+## 📁 Repository Structure
 
 * /projects: Contains individual project folders with their respective datasets, code, and analysis. 
 * /datasets: Stores publicly available datasets used in the projects.
 * /notebooks: Jupyter notebooks showcasing code and analysis steps.
 * /visualizations: Graphs, charts, and dashboards created during the analysis.
 
-##🚀 Projects Overview
+## 🚀 Projects Overview
 
 1. Sales Data Analysis
 Objective: Analyzed sales data to identify trends, patterns, and opportunities for increased revenue.
@@ -28,13 +28,13 @@ Objective: Built an interactive dashboard to track key financial metrics for a f
 Tools Used: Power BI, DAX
 Key Skills Demonstrated: Data visualization, dashboard design, and user interface optimization.
 
-##🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 * Programming Languages: Python, SQL
 * Data Visualization: Matplotlib, Seaborn
 * Data Processing: Pandas, NumPy, Excel
 
-##📈 Skills Highlight
+## 📈 Skills Highlight
 
 Data Cleaning & Wrangling
 Exploratory Data Analysis (EDA)
@@ -43,7 +43,7 @@ Statistical Analysis
 Predictive Modeling & Machine Learning
 SQL Database Management
 
-##📞 Contact Me
+## 📞 Contact Me
 
 * LinkedIn: www.linkedin.com/in/joshua-nickolay-907808197
 * Email: joshnickolay@gmail.com
