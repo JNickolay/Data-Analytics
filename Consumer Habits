@@ -1,0 +1,21 @@
+# Navigate to your project directory
+cd path/to/your/folder
+
+# Initialize the repository
+git init
+
+# Add a README file
+echo "# Consumer Habits Data" >> README.md
+
+# Move the CSV to the project directory (adjust path as needed)
+mv /path/to/Consumer\ Habits.csv .
+
+# Stage and commit the files
+git add README.md "Consumer Habits.csv"
+git commit -m "Initial commit with Consumer Habits data"
+
+# Link to your GitHub repository (replace with your actual URL)
+git remote add origin https://github.com/YOUR_GITHUB_USERNAME/REPOSITORY_NAME.git
+
+# Push the code to GitHub
+git push -u origin main
