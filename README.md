@@ -17,16 +17,13 @@ I am a dedicated Data Analyst with a passion for uncovering insights and driving
 
 1. Sales Data Analysis
 Objective: Analyzed sales data to identify trends, patterns, and opportunities for increased revenue.
-Tools Used: Python (Pandas, Matplotlib), Excel
+Tools Used: Python (Pandas, Matplotlib)
 Key Skills Demonstrated: Data cleaning, data wrangling, and visual storytelling.
 2. Customer Segmentation Using K-Means Clustering
 Objective: Segmented customers based on purchasing behavior to enable targeted marketing strategies.
 Tools Used: Python (Scikit-learn), SQL
 Key Skills Demonstrated: Machine learning, clustering analysis, data preprocessing.
-3. Financial Dashboard with Power BI
-Objective: Built an interactive dashboard to track key financial metrics for a fictional company.
-Tools Used: Power BI, DAX
-Key Skills Demonstrated: Data visualization, dashboard design, and user interface optimization.
+
 
 ## 🛠️ Tools & Technologies
 
