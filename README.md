@@ -9,10 +9,11 @@ I am a dedicated Data Analyst with a passion for uncovering insights and driving
 
 📁 Repository Structure
 
-/projects: Contains individual project folders with their respective datasets, code, and analysis.
+/projects: Contains individual project folders with their respective datasets, code, and analysis. 
 /datasets: Stores publicly available datasets used in the projects.
 /notebooks: Jupyter notebooks showcasing code and analysis steps.
 /visualizations: Graphs, charts, and dashboards created during the analysis.
+
 🚀 Projects Overview
 
 1. Sales Data Analysis
@@ -27,12 +28,13 @@ Key Skills Demonstrated: Machine learning, clustering analysis, data preprocessi
 Objective: Built an interactive dashboard to track key financial metrics for a fictional company.
 Tools Used: Power BI, DAX
 Key Skills Demonstrated: Data visualization, dashboard design, and user interface optimization.
+
 🛠️ Tools & Technologies
 
 Programming Languages: Python, SQL
-Data Visualization: Power BI, Tableau, Matplotlib, Seaborn
+Data Visualization: Matplotlib, Seaborn
 Data Processing: Pandas, NumPy, Excel
-Machine Learning: Scikit-learn
+
 📈 Skills Highlight
 
 Data Cleaning & Wrangling
@@ -41,7 +43,8 @@ Data Visualization & Reporting
 Statistical Analysis
 Predictive Modeling & Machine Learning
 SQL Database Management
+
 📞 Contact Me
 
-LinkedIn: 
-Email: Your Email Address
+LinkedIn: www.linkedin.com/in/joshua-nickolay-907808197
+Email: joshnickolay@gmail.com
