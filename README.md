@@ -19,10 +19,11 @@ I am a dedicated Data Analyst with a passion for uncovering insights and driving
 Objective: Analyzed sales data to identify trends, patterns, and opportunities for increased revenue.
 Tools Used: Python (Pandas, Matplotlib)
 Key Skills Demonstrated: Data cleaning, data wrangling, and visual storytelling.
-2. Customer Segmentation Using K-Means Clustering
-Objective: Segmented customers based on purchasing behavior to enable targeted marketing strategies.
-Tools Used: Python (Scikit-learn), SQL
-Key Skills Demonstrated: Machine learning, clustering analysis, data preprocessing.
+2. Classic Rock Analysis
+Objective: Examine key factors that influence the popularity, energy, and mood of classic rock songs
+The study identifies the most popular artists, the most energetic tracks, and explores the relationships between song characteristics such as danceability and popularity. Through visualizations, the analysis provides a deeper understanding of the elements that define classic rock's enduring appeal.
+Tools Used: Python (Pandas, Matplotlib)
+Key Skills Demonstrated: Data Analysis, Data Visualization, Statistical Analysis
 
 
 ## 🛠️ Tools & Technologies
