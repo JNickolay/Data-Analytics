@@ -15,7 +15,7 @@ I am a dedicated Data Analyst with a passion for uncovering insights and driving
 
 ## 🚀 Projects Overview
 
-1. Sales Data Analysis
+1. Consumer Habits Analysis
 Objective: Analyzed sales data to identify trends, patterns, and opportunities for increased revenue.
 Tools Used: Python (Pandas, Matplotlib)
 Key Skills Demonstrated: Data cleaning, data wrangling, and visual storytelling.
