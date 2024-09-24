@@ -37,7 +37,6 @@ Data Cleaning & Wrangling
 Exploratory Data Analysis (EDA)
 Data Visualization & Reporting
 Statistical Analysis
-Predictive Modeling & Machine Learning
 SQL Database Management
 
 ## 📞 Contact Me
